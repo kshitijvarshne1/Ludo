@@ -19,7 +19,24 @@ body{
 }
 h1{
     margin: 30px;
-    text-shadow: 5px 0 white;
+    text-shadow: 5px 5px white;
     font-size: 6rem;
     color: #f6b93b;
+}
+p{
+    font-size: 2rem;
+    color: #00b894;
+    text-shadow: 1px 1px white;
+}
+button{
+    padding: 10px;
+    background-color: #00b894;
+    color: white;
+    border: none;
+    border-radius:10px ;
+    font-size: 18px;
+    cursor: pointer;
+}
+img{
+    width: 70%;
 }
